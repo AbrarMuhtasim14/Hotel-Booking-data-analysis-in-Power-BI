@@ -1,2 +1,2 @@
 # powerbi-Project
-Here, I uploaded all my tableau project 
+Here, I uploaded all my power bi project 
