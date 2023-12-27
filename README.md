@@ -1,2 +1,2 @@
-# powerbi-Project
-Here, I uploaded all my power bi project 
+# Analysing Data for a Chain Hotel Brand in Power BI to Generate Revenue Insights
+
